@@ -32,7 +32,7 @@ php bin/console doctrine:migrations:migrate
 * Параметры: id или login
 * Возвращает: JSON с информацией о пользователе
 
-<img src="img/getuser.jpg.jpg">
+<img src="img/getuser.jpg">
 
 ### Удаление пользователя
 #### DELETE /users/{id} или DELETE /users/del/{login}
